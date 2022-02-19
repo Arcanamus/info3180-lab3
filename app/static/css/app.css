@@ -1,3 +1,33 @@
 body {
     padding-top: 5rem;
 }
+
+.label {
+    font-weight: bold;
+}
+
+.required {
+    color: #FF0001;
+    font-weight: bold;
+}
+
+.form-group {
+    padding-top: 15px;
+}
+
+.btn {
+    margin-top: 15px;
+}
+
+.flashes {
+    color: #1d7a10;
+    background-color: #94f887;
+    border: 2px solid #1d7a10;
+    border-radius: 5px;
+    list-style-type: none;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-left: 115px;
+    margin-right: 115px;
+}
